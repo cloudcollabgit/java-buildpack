@@ -15,4 +15,5 @@
 
 # Repository configuration
 ---
-default_repository_root: http://download.run.pivotal.io
+default_repository_root: http://rcdn6-vm59-168/dependencies
+#default_repository_root: http://download.run.pivotal.io
